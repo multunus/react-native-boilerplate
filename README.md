@@ -64,7 +64,7 @@ See the [CONTRIBUTING] document.
 Thank you, [contributors]!
 
   [CONTRIBUTING]: CONTRIBUTING.md
-  [contributors]: https://github.com/multunus/$(REPO_NAME)/graphs/contributors
+  [contributors]: https://github.com/multunus/react-native-boilerplate/graphs/contributors
 
 ## License
 
@@ -76,7 +76,7 @@ under the terms specified in the [LICENSE] file.
 
 ## About
 
-![multunus](https://s3.amazonaws.com/multunus-images/Multunus_Logo_Vector_resized.png)
+[![Multunus logo](https://s3.amazonaws.com/multunus-images/Multunus_Logo_Vector_resized.png)](http://www.multunus.com/?utm_source=github)
 
 React Native Boilerplate is maintained and funded by Multunus Software Pvt. Ltd.
 The names and logos for Multunus are trademarks of Multunus Software Pvt. Ltd.
